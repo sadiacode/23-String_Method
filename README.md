@@ -1,6 +1,6 @@
 # String Methods in Python
 ## Description
-This project is a simple python program that demonstrates how to use string methods in python. String methods are built-in functions that help modify,search,, and manipulate strings. 
+This project is a simple python program that demonstrates how to use string methods in python. String methods are built-in functions that help modify, search, and manipulate strings. 
 ## String Methods
 **Methods**                     **Description**
 - lower():                       Converts to lowercase
